@@ -14,7 +14,7 @@ const CONFIG = {
     btnReply: 'vtp 0981134203 ạa',
     reply: 'Đọc stk đi em',
     mess: 'hế hế',
-    messDesc: 'Chúc mng ngụ ngon lần nữa.',
+    messDesc: 'Chúc mng ngụ ngon lần nữaa.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/messages/t/4797136730310080'
 }
