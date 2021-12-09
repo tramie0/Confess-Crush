@@ -11,7 +11,7 @@ const CONFIG = {
     btnYes: 'Cảm ơn tramie cute nhaa',
     btnNo: 'Không ngủ ngon thì có được khum',
     question: 'Mỗi người cho em xin 5k để em mua quần áo chuẩn bị đi chơi Noel được khum ạ <3',
-    btnReply: 'iu mng nhiều',
+    btnReply: 'vtp 0981134203 ạa',
     reply: 'Đọc stk đi em',
     mess: 'hế hế',
     messDesc: 'Chúc mng ngụ ngon lần nữa.',
